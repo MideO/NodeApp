@@ -1,0 +1,21 @@
+{
+  "data": {
+    "PollingTimeInSeconds": 3
+  },
+  "informatica": {
+    "ApiUrl": "https://icinq1.informaticacloud.com/saas/api/v2/activity/activityLog?rowLimit=3",
+    "icSessionId": "EFelWYBP4WmMeO2g9PJs"
+  },
+  "Metrics": {
+      "fields":[
+        ""
+      ],
+    "dataAxis": {
+      "x-axis": "objectName",
+      "stack-bar-y-axis": [
+        "successTargetRows",
+        "failedTargetRows"
+      ]
+    }
+  }
+}
