@@ -2,7 +2,6 @@
 
 var request = require("supertest"),
     assert = require("assert");
-    should = require("should");
 
 
 var app = request.agent(require("../app").getNodeApp);
