@@ -1,5 +1,7 @@
 # NodeApp
-
-- npm install
-- npm test
+Start App
 - npm start
+
+Test App
+- npm test
+
